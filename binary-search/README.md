@@ -59,7 +59,7 @@ int solve() {
 
 ## Problems
 
-* Binary Search
+* Binary Search (Classic, O(log n))
 * Lower Bound / Upper Bound
 * Search in Rotated Sorted Array
 * Find Peak Element

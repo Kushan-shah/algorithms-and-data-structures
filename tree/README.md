@@ -34,12 +34,16 @@ Example:
 
 ## 📘 Problems Included
 
-* **104** - Maximum Depth of Binary Tree → DFS (Height calculation)
-* **100** - Same Tree → Tree comparison
-* **226** - Invert Binary Tree → Structure modification
-* **112** - Path Sum → Root-to-leaf path check
-* **543** - Diameter of Binary Tree → DFS + global variable
-
+- **100** - Same Tree → Tree comparison  
+- **102** - Binary Tree Level Order Traversal → BFS traversal  
+- **104** - Maximum Depth of Binary Tree → DFS (height calculation)  
+- **110** - Balanced Binary Tree → Optimized DFS  
+- **112** - Path Sum → Root-to-leaf path check  
+- **199** - Binary Tree Right Side View → BFS / level view  
+- **226** - Invert Binary Tree → Structure modification  
+- **235** - Lowest Common Ancestor of a BST → BST property  
+- **236** - Lowest Common Ancestor of a Binary Tree → DFS  
+- **543** - Diameter of Binary Tree → DFS + global state  
 ---
 
 ## 💡 Approach

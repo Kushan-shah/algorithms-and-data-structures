@@ -35,10 +35,15 @@ Example:
 
 ## 📘 Problems Included
 
-* **200** - Number of Islands → DFS on grid
-* **994** - Rotting Oranges → Multi-source BFS
-* **733** - Flood Fill → DFS traversal
-* **542** - 01 Matrix → Multi-source BFS
+- **200** - Number of Islands → DFS on grid  
+- **733** - Flood Fill → DFS traversal  
+- **994** - Rotting Oranges → Multi-source BFS  
+- **542** - 01 Matrix → Multi-source BFS  
+- **1091** - Shortest Path in Binary Matrix → BFS (shortest path)  
+- **133** - Clone Graph → DFS + HashMap  
+- **207** - Course Schedule → Topological sort (Kahn’s Algorithm)  
+- **210** - Course Schedule II → Topological sort (ordering)  
+- **785** - Is Graph Bipartite → DFS coloring  
 
 ---
 

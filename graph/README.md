@@ -44,7 +44,10 @@ Example:
 - **207** - Course Schedule → Topological sort (Kahn’s Algorithm)  
 - **210** - Course Schedule II → Topological sort (ordering)  
 - **785** - Is Graph Bipartite → DFS coloring  
-
+- **547** - Number of Provinces → DFS (connected components)  
+- **695** - Max Area of Island → DFS (grid area)  
+- **841** - Keys and Rooms → Graph traversal  
+- **1631** - Path With Minimum Effort → Dijkstra (shortest path)
 ---
 
 ## 💡 Approach

@@ -36,14 +36,32 @@ Example:
 
 ---
 
+## 🧩 Pattern Focus
+
+This module emphasizes solving problems by recognizing patterns such as sliding window, hashing, and two-pointer techniques rather than brute force approaches.
+
+---
+
 ## 📘 Problems
 
-* **76** - Minimum Window Substring → Sliding Window
-* **242** - Valid Anagram → Frequency Count
-* **125** - Valid Palindrome → Two Pointers
-* **49** - Group Anagrams → Hashing
-* **2573** - Find the String with LCP → Greedy + Validation
+### 🔹 Sliding Window
+- **76** - Minimum Window Substring → Optimal substring search  
+- **3** - Longest Substring Without Repeating Characters → Unique window  
 
+### 🔹 Two Pointers / Palindrome
+- **125** - Valid Palindrome → Two pointer validation  
+- **5** - Longest Palindromic Substring → Expand around center  
+
+### 🔹 Hashing / Frequency
+- **242** - Valid Anagram → Frequency counting  
+- **49** - Group Anagrams → Hashing + sorting  
+
+### 🔹 Index / Parity Logic
+- **2839** - Check Strings Equal I → Fixed index swaps  
+- **2840** - Check Strings Equal II → Even/Odd grouping  
+
+### 🔹 Greedy / Construction
+- **2573** - Find the String with LCP → Constraint-based construction + validation
 ---
 
 ## ⏱ Complexity

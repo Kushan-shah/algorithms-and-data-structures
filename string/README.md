@@ -63,6 +63,9 @@ This module emphasizes solving problems by recognizing patterns such as sliding 
 ### 🔹 Greedy / Construction
 - **2573** - Find the String with LCP → Constraint-based construction + validation
 - **3474** - Lexicographically Smallest Generated String → Greedy + constraint validation (hard)
+
+### 🔹 Matrix / Traversal
+- **2075** - Decode the Slanted Ciphertext → Matrix + diagonal traversal
 ---
 
 ## ⏱ Complexity

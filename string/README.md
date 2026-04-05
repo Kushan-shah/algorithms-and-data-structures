@@ -66,6 +66,9 @@ This module emphasizes solving problems by recognizing patterns such as sliding 
 
 ### 🔹 Matrix / Traversal
 - **2075** - Decode the Slanted Ciphertext → Matrix + diagonal traversal
+
+### 🔹 Simulation
+- **657** - Robot Return to Origin → Coordinate simulation
 ---
 
 ## ⏱ Complexity

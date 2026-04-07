@@ -39,8 +39,8 @@ Example:
 
 ## 📘 Problems
 
-* **136** - Single Number → XOR to remove duplicates
-
+- **136** - Single Number → XOR to remove duplicates
+- **191** - Number of 1 Bits → count set bits using bit trick  
 ---
 
 ## 🧩 Pattern Categories

@@ -69,6 +69,7 @@ This module emphasizes solving problems by recognizing patterns such as sliding 
 
 ### 🔹 Simulation
 - **657** - Robot Return to Origin → Coordinate simulation
+- **2069** - Walking Robot Simulation II → boundary simulation with direction control
 ---
 
 ## ⏱ Complexity

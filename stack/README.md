@@ -36,8 +36,16 @@ Example:
 
 📘 Problems
 
-- 2751 - Robot Collisions → Stack + simulation (collision handling)
+## 🔹 Simulation
+- **2751** - Robot Collisions → Stack + collision handling  
+- **735** - Asteroid Collision → Stack-based simulation  
 
+## 🔹 Parentheses / Matching
+- **20** - Valid Parentheses → Basic stack matching  
+- **32** - Longest Valid Parentheses → Stack + index tracking  
+
+## 🔹 Monotonic Stack
+- **84** - Largest Rectangle in Histogram → Advanced monotonic stack  
 ---
 
 🧩 Pattern Categories

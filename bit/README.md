@@ -40,7 +40,8 @@ Example:
 ## 📘 Problems
 
 - **136** - Single Number → XOR to remove duplicates
-- **191** - Number of 1 Bits → count set bits using bit trick  
+- **191** - Number of 1 Bits → count set bits using bit trick
+- **3653** - XOR After Range Multiplication Queries I → step traversal + modulo handling
 ---
 
 ## 🧩 Pattern Categories

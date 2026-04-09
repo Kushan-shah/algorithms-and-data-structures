@@ -42,6 +42,7 @@ Example:
 - **136** - Single Number → XOR to remove duplicates
 - **191** - Number of 1 Bits → count set bits using bit trick
 - **3653** - XOR After Range Multiplication Queries I → step traversal + modulo handling
+- **3655** - XOR After Range Multiplication Queries II → sqrt decomposition + modular prefix updates  
 ---
 
 ## 🧩 Pattern Categories
